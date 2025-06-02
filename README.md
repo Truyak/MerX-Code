@@ -13,7 +13,7 @@ Projenin detaylı açıklaması ve geliştirme süreci için Medium yazımı oku
 
 ## Tanıtım Videosu
 Uygulamanın özelliklerini görmek için tanıtım videosunu izleyebilirsiniz:  
-[Tanıtım Videosu]([YouTube-videonuzun-bağlantısı](https://youtu.be/6miwVdFR8wI))
+[Tanıtım Videosu](https://youtu.be/6miwVdFR8wI)
 
 ## Kurulum ve Çalıştırma
 1. Repoyu klonlayın:  
